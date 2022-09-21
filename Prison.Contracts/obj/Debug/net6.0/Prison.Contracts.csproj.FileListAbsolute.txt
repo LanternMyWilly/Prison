@@ -1,0 +1,15 @@
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/bin/Debug/net6.0/Prison.Contracts.deps.json
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/bin/Debug/net6.0/Prison.Contracts.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/bin/Debug/net6.0/Prison.Contracts.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/Prison.Contracts.csproj.AssemblyReference.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/Prison.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/Prison.Contracts.AssemblyInfoInputs.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/Prison.Contracts.AssemblyInfo.cs
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/Prison.Contracts.csproj.CoreCompileInputs.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/Prison.Contracts.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/refint/Prison.Contracts.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/Prison.Contracts.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/ref/Prison.Contracts.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/bin/Debug/net6.0/Prison.Models.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/bin/Debug/net6.0/Prison.Models.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Contracts/obj/Debug/net6.0/Prison.Contracts.csproj.CopyComplete

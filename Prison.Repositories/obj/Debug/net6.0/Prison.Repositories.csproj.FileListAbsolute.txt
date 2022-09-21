@@ -1,0 +1,17 @@
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/bin/Debug/net6.0/Prison.Repositories.deps.json
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/bin/Debug/net6.0/Prison.Repositories.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/bin/Debug/net6.0/Prison.Repositories.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/bin/Debug/net6.0/Prison.Data.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/bin/Debug/net6.0/Prison.Models.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/bin/Debug/net6.0/Prison.Data.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/bin/Debug/net6.0/Prison.Models.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/Prison.Repositories.csproj.AssemblyReference.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/Prison.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/Prison.Repositories.AssemblyInfoInputs.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/Prison.Repositories.AssemblyInfo.cs
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/Prison.Repositories.csproj.CoreCompileInputs.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/Prison.Repositories.csproj.CopyComplete
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/Prison.Repositories.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/refint/Prison.Repositories.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/Prison.Repositories.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Repositories/obj/Debug/net6.0/ref/Prison.Repositories.dll

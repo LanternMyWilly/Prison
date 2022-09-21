@@ -1,0 +1,17 @@
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/bin/Debug/net6.0/Prison.Data.deps.json
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/bin/Debug/net6.0/Prison.Data.runtimeconfig.json
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/bin/Debug/net6.0/Prison.Data.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/bin/Debug/net6.0/Prison.Data.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/bin/Debug/net6.0/Prison.Models.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/bin/Debug/net6.0/Prison.Models.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/Prison.Data.csproj.AssemblyReference.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/Prison.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/Prison.Data.AssemblyInfoInputs.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/Prison.Data.AssemblyInfo.cs
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/Prison.Data.csproj.CoreCompileInputs.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/Prison.Data.csproj.CopyComplete
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/Prison.Data.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/refint/Prison.Data.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/Prison.Data.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/Prison.Data.genruntimeconfig.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Data/obj/Debug/net6.0/ref/Prison.Data.dll

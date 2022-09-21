@@ -1,0 +1,12 @@
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/bin/Debug/net6.0/Prison.Models.deps.json
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/bin/Debug/net6.0/Prison.Models.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/bin/Debug/net6.0/Prison.Models.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/obj/Debug/net6.0/Prison.Models.csproj.AssemblyReference.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/obj/Debug/net6.0/Prison.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/obj/Debug/net6.0/Prison.Models.AssemblyInfoInputs.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/obj/Debug/net6.0/Prison.Models.AssemblyInfo.cs
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/obj/Debug/net6.0/Prison.Models.csproj.CoreCompileInputs.cache
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/obj/Debug/net6.0/Prison.Models.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/obj/Debug/net6.0/refint/Prison.Models.dll
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/obj/Debug/net6.0/Prison.Models.pdb
+/Users/florianserneels/Documents/ElmosOpleiding/DotNet/Prison/Prison.Models/obj/Debug/net6.0/ref/Prison.Models.dll
